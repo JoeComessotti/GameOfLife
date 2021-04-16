@@ -1,0 +1,25 @@
+﻿  Game.cpp
+C:\Users\admin\Desktop\SFML environment\GameOfLife\GameOfLife\Game.cpp(21,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\admin\Desktop\SFML environment\GameOfLife\GameOfLife\Game.cpp(22,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\admin\Desktop\SFML environment\GameOfLife\GameOfLife\Game.cpp(23,16): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
+C:\Users\admin\Desktop\SFML environment\GameOfLife\GameOfLife\Game.cpp(72,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\admin\Desktop\SFML environment\GameOfLife\GameOfLife\Game.cpp(73,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\admin\Desktop\SFML environment\GameOfLife\GameOfLife\Game.cpp(74,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\admin\Desktop\SFML environment\GameOfLife\GameOfLife\Game.cpp(75,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  GameOfLife.vcxproj -> C:\Users\admin\Desktop\SFML environment\GameOfLife\Debug\GameOfLife.exe
